@@ -11,8 +11,8 @@
     {
       "name": "gorfast",
       "source": {
-        "source": "url",
-        "url": "https://github.com/borfast/gorfast.git"
+        "source": "github",
+        "repo": "borfast/gorfast"
       },
       "description": "Skills for building web applications in Go: typed layered configuration, with more to come",
       "category": "development",
