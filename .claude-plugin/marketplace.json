@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "borfast",
+  "owner": {
+    "name": "borfast"
+  },
+  "metadata": {
+    "description": "borfast's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "gorfast",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/borfast/gorfast.git"
+      },
+      "description": "Skills for building web applications in Go: typed layered configuration, with more to come",
+      "category": "development",
+      "tags": [
+        "go",
+        "golang",
+        "web",
+        "configuration"
+      ]
+    }
+  ]
+}
